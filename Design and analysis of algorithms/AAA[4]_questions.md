@@ -115,7 +115,3 @@ Dividing both sides by **n²**:
 
 For **large n**, **5n** dominates, meaning the left side grows indefinitely, while the right side is a constant.  
 This contradiction proves that **5n³ + 10n ≠ O(n²)**.
-
----
-
-Let me know if you need further explanations! 😊

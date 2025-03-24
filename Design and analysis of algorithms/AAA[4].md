@@ -63,7 +63,3 @@ It is a way to analyze how the running time of an **algorithm** grows as the **i
 ### **Comparing Algorithm Efficiency**
 - **O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(2ⁿ) < O(n!)**
 - **Algorithms with smaller growth rates are more efficient.**
-
----
-
-Would you like me to add examples or clarify anything further? 😊
